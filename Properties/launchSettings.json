@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Demo_KemTra_Bai6": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
